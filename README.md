@@ -1,2 +1,5 @@
 # Sampletest
-sample to create a new code
+To practice simple code
+
+to practice simple code in python and pycharm
+
